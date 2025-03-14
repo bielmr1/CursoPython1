@@ -52,5 +52,5 @@ while executar:
             executar = False
     #Sair
     if operador == "5" or operador == "Sair":
-        print("Valeu truta!")
+        print("Obrigado!")
         executar = False
